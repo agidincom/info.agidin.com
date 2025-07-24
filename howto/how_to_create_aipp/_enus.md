@@ -1,6 +1,10 @@
 # How to create an Aipp?
 
-🌎 [简体中文](./_zhcn.md)
+🌐 [简体中文](./_zhcn.md)
+
+<!-- 🌎 to be added -->
+
+🚀 [WebApp](https://u.agidin.com) ｜ [Navite Apps](https://links.agidin.com)
 
 ---
 
@@ -26,4 +30,4 @@ You can also share the assistant with your friends, so go ahead and show it off!
 
 ---
 
-[**🔙 Back to Home**](../../_enus.md)
+[**🔙 Go Home**](../../_enus.md)

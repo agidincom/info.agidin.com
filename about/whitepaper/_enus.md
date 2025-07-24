@@ -1,6 +1,10 @@
 # Agidin - Connects You and AI Singularity
 
-🌎 [简体中文](./_zhcn.md)
+🌐 [简体中文](./_zhcn.md)
+
+<!-- 🌎 to be added -->
+
+🚀 [WebApp](https://u.agidin.com) ｜ [Navite Apps](https://links.agidin.com)
 
 ---
 
@@ -36,10 +40,6 @@ We are open to the whole world and provide global service at [🔗 agidin.com](h
 
 We also provide localized services to respect local culture and policies. For example, we provide a localized site [🔗 爱奇点.com](https://u.爱奇点.com) for China with special content censorship aligned with China's policies, so that Chinese users can visit us as smooth as possible.
 
-### Decentralization
-
-Our service facilities are distributed all over the world, and we use decentralized blockchain (Blockchain), Interplanetary File System (IPFS), data autonomy (Web3) and other infrastructure to implement end-user applications.
-
 ### Contact Us
 
 We are a global team that operates as a decentralized DAO.
@@ -47,9 +47,9 @@ We are a global team that operates as a decentralized DAO.
 We'd love to hear from you!
 
 - Send us an email to [hi@agidin.com](mailto:hi@agidin.com)
-- Leave a message at our [helpdesk](https://csr.agidin.com)
+- Leave a message at our [Customer Service](https://csr.agidin.com)
 - Search and follow [Agidin Channels](https://links.agidin.com) on various social platforms.
 
 ---
 
-[**🔙️ Back to Home**](../../_enus.md)
+[**🔙️ Go Home**](../../_enus.md)

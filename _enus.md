@@ -1,24 +1,28 @@
 # Agidin
 
-🌎 [爱奇点 - 简体中文](./_zhcn.md)
+🌐 [简体中文](./_zhcn.md)
+
+<!-- 🌎 to be added -->
+
+🚀 [WebApp](https://u.agidin.com) ｜ [Navite Apps](https://links.agidin.com)
 
 ---
 
 ### Content
 
-- [What is Agidin?](./plans/whitepaper/_enus.md)
+- [What is Agidin?](./about/whitepaper/_enus.md)
 - [News and History](./news/_enus.md)
 - How To
-  - [Create an Aipp](./topic/how_to_create_aipp/_enus.md)
-  - [Monetize Your Aipp](./topic/how_to_monetize_aipp/_enus.md)
-  - [Customize Aipp with Files](./topic/aipp_files/_enus.md)
+  - [Create an Aipp](./howto/how_to_create_aipp/_enus.md)
+  - [Monetize Your Aipp](./howto/how_to_monetize_aipp/_enus.md)
+  - [Customize Aipp with Files](./howto/how_to_customize_aipp_files/_enus.md)
 
 ### Contact Us
 
 We'd love to hear from you!
 
 - Send us an email to [hi@agidin.com](mailto:hi@agidin.com)
-- Leave a message at our [helpdesk](https://csr.agidin.com)
+- Leave a message at our [Customer Service](https://csr.agidin.com)
 - Search and follow [Agidin Channels](https://links.agidin.com) on various social platforms.
 
 ---

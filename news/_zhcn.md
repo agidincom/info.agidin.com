@@ -1,8 +1,16 @@
 # 爱奇点 - 新鲜事
 
-🌎 [English](./_enus.md)
+🌐 [English](./_enus.md)
+
+<!-- 🌎 待定 -->
+
+🚀 [网页应用](https://u.agidin.com) ｜ [手机应用](https://links.agidin.com)
 
 ---
+
+### 2025-04-09 德语、日语支持
+
+增加了德语、日语的支持
 
 ### 2025-02-15 DeepSeek R1
 
@@ -132,9 +140,9 @@ OpenAI 预定将于明年 1 月正式推出 GPTs 应用商店。我们的 AI 应
 
 ### 2023-11-25 一分二
 
-为了让您拥有更多更好的 AI 体验，自即日起，[《Agidin》](https://agidin.com)将全面专注于 AI 及其衍生功能。
+为了让您拥有更多更好的 AI 体验，自即日起，[Agidin](https://agidin.com) 将全面专注于 AI 及其衍生功能。
 
-原有的 PEX/NFT/IPFS 相关功能将独立成一个全新的 Web3 服务平台：[《巴贝历》](https://巴贝历.com)。
+原有的 PEX/NFT/IPFS 相关功能将独立成一个全新的用户内容平台：[巴贝历](https://巴贝历.com)。
 
 更多选择，更大空间！
 
@@ -166,4 +174,4 @@ OpenAI 预定将于明年 1 月正式推出 GPTs 应用商店。我们的 AI 应
 
 ---
 
-[**🔙️ 返回首页**](../_zhcn.md)
+[**🏠 返回首页**](../_zhcn.md)

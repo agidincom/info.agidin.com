@@ -1,6 +1,10 @@
 # How to earn money from your Aipp?
 
-🌎 [简体中文](./_zhcn.md)
+🌐 [简体中文](./_zhcn.md)
+
+<!-- 🌎 to be added -->
+
+🚀 [WebApp](https://u.agidin.com) ｜ [Navite Apps](https://links.agidin.com)
 
 ---
 
@@ -15,4 +19,4 @@ Whenever a user uses an Aipp you've created, you will receive corresponding inco
 
 ---
 
-[**🔙 Back to Home**](../../_enus.md)
+[**🔙 Go Home**](../../_enus.md)

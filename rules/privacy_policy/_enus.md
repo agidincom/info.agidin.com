@@ -1,6 +1,10 @@
 # Agidin - Policy of Privacy
 
-🌎 [简体中文](./_zhcn.md)
+🌐 [简体中文](./_zhcn.md)
+
+<!-- 🌎 to be added -->
+
+🚀 [WebApp](https://u.agidin.com) ｜ [Navite Apps](https://links.agidin.com)
 
 ---
 
@@ -113,4 +117,4 @@ Data Controller. For the purposes of the UK and EU General Data Protection Regul
 
 ---
 
-[**🔙️ Back to Home**](../../_enus.md)
+[**🔙️ Go Home**](../../_enus.md)

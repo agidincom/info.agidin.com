@@ -1,6 +1,10 @@
 # How to upload files to Aipp?
 
-🌎 [简体中文](./_zhcn.md)
+🌐 [简体中文](./_zhcn.md)
+
+<!-- 🌎 to be added -->
+
+🚀 [WebApp](https://u.agidin.com) ｜ [Navite Apps](https://links.agidin.com)
 
 ---
 
@@ -40,4 +44,4 @@ You can upload files of following formats:
 
 ---
 
-[**🔙️ Back to Home**](../../_enus.md)
+[**🔙️ Go Home**](../../_enus.md)

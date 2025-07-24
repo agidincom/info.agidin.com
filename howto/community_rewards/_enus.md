@@ -1,6 +1,10 @@
 # Agidin - Community Rewards Program
 
-🌎 [简体中文](./_zhcn.md)
+🌐 [简体中文](./_zhcn.md)
+
+<!-- 🌎 to be added -->
+
+🚀 [WebApp](https://u.agidin.com) ｜ [Navite Apps](https://links.agidin.com)
 
 ---
 
@@ -52,4 +56,4 @@ Please contact us for more details.
 
 ---
 
-[**🔙️ Back to Home**](../../_enus.md)
+[**🔙️ Go Home**](../../_enus.md)

@@ -1,8 +1,16 @@
 # Agidin - Updates & News
 
-🌎 [简体中文](./_zhcn.md)
+🌐 [简体中文](./_zhcn.md)
+
+<!-- 🌎 to be added -->
+
+🚀 [WebApp](https://u.agidin.com) ｜ [Navite Apps](https://links.agidin.com)
 
 ---
+
+### 2025-04-09 More UI languages
+
+Support German and Japanese as UI languages.
 
 ### 2025-02-15 DeepSeek R1
 
@@ -114,7 +122,7 @@ you can review your chat history with AI!
 
 To provide you more AI functionalities, [Agidin](https://agidin.com) will be focusing on AI.
 
-PEX/NFT/IPFS functionalities will be served on a seperate innovative Web3 platform: [Babelyx](https://babelyx.com)
+PEX/NFT/IPFS functionalities will be served on a seperate innovative user content platform: [Babelyx](https://babelyx.com)
 
 More Choices, More Space.
 
@@ -144,4 +152,4 @@ Dear China users, due to China government policies, to continue serving you, the
 
 ---
 
-[**🔙️ Back to Home**](../_enus.md)
+[**🔙️ Go Home**](../_enus.md)
